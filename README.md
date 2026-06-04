@@ -94,11 +94,7 @@
 4. Перенесите файл на Android-устройство и установите (разрешив установку из неизвестных источников).
 
 ---
-<img width="642" height="287" alt="level_select" src="https://github.com/user-attachments/assets/957dc325-f3ce-46bd-9328-51f97d2c2408" />
-<img width="515" height="286" alt="character_select" src="https://github.com/user-attachments/assets/4384c120-1002-4cdd-9921-703ae5dd345e" />
-<img width="1485" height="830" alt="main_menu" src="https://github.com/user-attachments/assets/09adfd5b-4c56-4365-b00e-972e4a7b121a" />
-<img width="507" height="306" alt="gameplay" src="https://github.com/user-attachments/assets/3a9097dd-98af-4438-9f16-80390dbe0023" />
-<img width="614" height="346" alt="shop" src="https://github.com/user-attachments/assets/400f039c-b949-41e1-85a3-dce7c8a4d0ff" />
+
 ## 🏗 Разработчик
 
 
