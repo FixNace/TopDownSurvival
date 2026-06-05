@@ -45,17 +45,24 @@
 ### Главное меню
 Интерфейс главного меню с кнопками перехода к игровому процессу и настройкам звука через `AudioMixer`[cite: 1].
 ![Главное меню](Sprites/main_menu.png)
+<img width="1485" height="830" alt="main_menu" src="https://github.com/user-attachments/assets/fad9438b-2a0a-4b15-978c-c9cff8ae6ed6" />
 
 ### Меню выбора персонажей
 Экран демонстрации карточек героев и записи выбора в постоянную память устройства[cite: 1].
 ![Меню выбора персонажей](Sprites/character_select.png)
+<img width="515" height="286" alt="character_select" src="https://github.com/user-attachments/assets/ea689589-cc7f-4ce9-b320-68844560e186" />
 
 ### Меню выбора уровней
 Индикация прогресса игрока. Уровни блокируются и открываются динамически на основе данных из `PlayerPrefs`[cite: 1].
 ![Меню выбора уровней](Sprites/level_select.png)
+<img width="642" height="287" alt="level_select" src="https://github.com/user-attachments/assets/a7816711-975a-4b14-9c9c-b6b06ac5c6d5" />![Uploading character_select.png…]()
+
+
 
 ### Игровой процесс и Магазин
 Перестрелки с врагами и панель закупки улучшений между волнами[cite: 1].
+<img width="507" height="306" alt="gameplay" src="https://github.com/user-attachments/assets/b9f9d8a5-41c1-4087-a442-96d5e49ff594" />
+<img width="614" height="346" alt="shop" src="https://github.com/user-attachments/assets/e6984d36-a963-4bb6-a954-c5d4959c7091" />
 <p id="gameplay-screens" align="center">
   <img src="Sprites/gameplay.png" width="48%" />
   <img src="Sprites/shop.png" width="48%" />
@@ -88,9 +95,7 @@
 
 1. Перейдите в раздел **[Releases](https://github.com/твой_никнейм/твой_репозиторий/releases)** в правой части страницы.
 2. Найдите актуальный релиз (например, `v1.0.0`).
-3. Скачайте нужный файл сборки в зависимости от предпочтений:
-   * `TopDown_v1.0_Normal.apk` — стандартная версия игры.
-   * `TopDown_v1.0_Hardcore.apk` — версия повышенной сложности для тестирования баланса.
+3. Скачайте нужный файл сборки 
 4. Перенесите файл на Android-устройство и установите (разрешив установку из неизвестных источников).
 
 ---
